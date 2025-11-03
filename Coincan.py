@@ -4,9 +4,6 @@ f = Figlet(font='slant')
 
 print(f.renderText('CoinCan.'))
 
-
-
-
 # Prices per item
 PRICE_CAN = 0.10
 PRICE_BOTTLE = 0.10
